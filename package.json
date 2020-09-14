@@ -1,7 +1,7 @@
 {
   "name": "hello-nodejs",
   "version": "1.0.0",
-  "description": "내 첫 nodeJS 프로젝트",
+  "description": "Blank space project for applying anything what I want freely",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
